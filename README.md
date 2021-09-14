@@ -3,8 +3,11 @@
 The output is as follows:
 
 winning Rules of the Rock paper and scissor game as follows:
-rock vs paper->paper wins 
+
+rock vs paper->paper wins
+
 rock vs scissors->rock wins 
+
 paper vs scissors->scissors wins 
 
 Enter choice 
@@ -13,12 +16,17 @@ Enter choice
  3. scissor 
 
 User turn: 1
+
 User choice is: Rock
 
 Now its computer turn.......
 
 computer choice is: paper
+
 Rock V/s paper
+
 paper wins =>computer wins
+
 do you want to play again?
+
 N
